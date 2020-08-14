@@ -25,7 +25,6 @@ public class SecondActivity extends AppCompatActivity {
         edt1.setText(getIntent().getStringExtra("num1"));
         edt2.setText(getIntent().getStringExtra("num2"));
 
-
     }
 
     public void onButtonAdd(View v){

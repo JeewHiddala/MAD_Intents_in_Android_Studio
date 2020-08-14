@@ -19,5 +19,4 @@
     android:layout_height="wrap_content"
     android:contentDescription="To"
     android:text="JavaTpoint custom Toast" />
-
 </LinearLayout>
